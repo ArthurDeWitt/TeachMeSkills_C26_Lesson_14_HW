@@ -1,0 +1,2 @@
+contract123456789 - Invalid document number: Wrong length 
+docnum123456789 - Invalid document number: 
